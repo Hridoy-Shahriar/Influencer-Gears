@@ -376,6 +376,7 @@ footer {
     width: 100%;
     align-items: center;
     text-align: center;
+    padding-left: 0;
   }
 
   .hero-heading {
